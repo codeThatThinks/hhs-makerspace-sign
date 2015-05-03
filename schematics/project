@@ -1,0 +1,2 @@
+schematics "Sign - Connectors.sch" "Sign - Ship LEDs.sch" "Sign - Text LED Array.sch"
+output-name sign

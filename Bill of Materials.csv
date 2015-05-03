@@ -1,0 +1,22 @@
+Quantity,References,Item,URL,Unit Price,Price
+Resistors,,,,,
+47,R1-R4 R7-R14 R17-R22 R27-R34 R37 R42-R46 R48 R50-R51 R53-R54 R57-R62 R64-R66 R89,150R 1/10W 5% 0603,http://www.mouser.com/Search/ProductDetail.aspx?R=RK73B1JTTDD151Jvirtualkey66000000virtualkey660-RK73B1JTTDD151J,$0.01,$0.42
+7,R5 R23 R25 R36 R40 R47 R67,620R 1/10W 5% 0603,http://www.mouser.com/Search/ProductDetail.aspx?R=RK73B1JTTDD621Jvirtualkey66000000virtualkey660-RK73B1JTTDD621J,$0.08,$0.56
+1,R55,383R 1/10W 1% 0603,http://www.mouser.com/Search/ProductDetail.aspx?R=CRCW0603383RFKEAvirtualkey61300000virtualkey71-CRCW0603-383-E3,$0.08,$0.08
+13,R6 R15-R16 R24 R26 R35 R38 R41 R49 R52 R56 R63 R68,1K 1/10W 5% 0603,http://www.mouser.com/Search/ProductDetail.aspx?R=RK73B1JTTD102Jvirtualkey66000000virtualkey660-RK73B1JTTD102J,$0.01,$0.12
+Diodes,,,,,
+150,D1-D150,Blue 475nm LED 0603,http://www.mouser.com/Search/ProductDetail.aspx?R=VLMB1300-GS08virtualkey61370000virtualkey78-VLMB1300-GS08,$0.09,$13.95
+1,Z1,BZT52B12-E3-18 Zener,http://www.mouser.com/Search/ProductDetail.aspx?R=BZT52B12-E3-18virtualkey61370000virtualkey78-BZT52B12-E3-18,$0.10,$0.10
+Transistors,,,,,
+13,Q1-Q13,2N3904 SOT-23-3,http://www.mouser.com/Search/ProductDetail.aspx?R=MMBT3904LT1Gvirtualkey58410000virtualkey863-MMBT3904LT1G,$0.10,$1.30
+Headers,,,,,
+1,H1,DC power jack 2mm pin,http://www.mouser.com/Search/ProductDetail.aspx?R=PJ-002AH-SMT-TRvirtualkey51780000virtualkey490-PJ-002AH-SMT-TR,$1.71,$1.71
+1,H2,2x5 male SMD right-angle,http://www.mouser.com/Search/ProductDetail.aspx?R=961210-5500-AR-PRvirtualkey51750000virtualkey517-9612105500ARPR,$2.83,$2.83
+1,H3,2x3 male SMD right-angle,http://www.mouser.com/Search/ProductDetail.aspx?R=961206-5900-AR-TPvirtualkey51750000virtualkey517-9612065900ARTP,$1.14,$1.14
+Misc.,,,,,
+1,F1,Resettable PTC Fuse 1.95A,http://www.mouser.com/Search/ProductDetail.aspx?R=0ZCC0110BF2Bvirtualkey59810000virtualkey530-0ZCC0110BF2B,$0.22,$0.22
+1,,"12""x12"" .236"" Acrylic Sheet",https://www.amazonsupply.com/dp/B004N1JLI4,$7.27,$7.27
+35,,"#2 1/2"" Nylon Hex Spacer",https://www.amazonsupply.com/dp/B001GD1Y82,$0.10,$3.50
+35,,"#2-56 1"" Fillister Stainless Machine Screw",https://www.amazonsupply.com/dp/B000FN1W7M,$0.11,$3.99
+35,,#2-56 Stainless Machine Screw Nut,https://www.amazonsupply.com/dp/B000FMU9R2,$0.03,$0.97
+,,,,,$38.16
