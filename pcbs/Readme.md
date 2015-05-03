@@ -1,3 +1,3 @@
 ## Sign PCB
 
-![Sign](https://raw.github.com/hhs-makerspace/Makerspace-LED-Sign/pcbs/Sign.png)
+![Sign](https://raw.githubusercontent.com/hhs-makerspace/Makerspace-LED-Sign/master/pcbs/Sign.png)
