@@ -45,7 +45,7 @@ device=RESISTOR
 T 44400 55300 5 8 1 1 0 0 1
 refdes=R1
 T 44700 55300 5 8 1 1 0 0 1
-value=150R
+value=470R
 T 44200 55000 5 10 0 1 0 0 1
 footprint=0603
 T 44200 55000 5 10 0 0 0 0 1
@@ -83,7 +83,7 @@ footprint=0603
 T 44400 52500 5 8 1 1 0 0 1
 refdes=R5
 T 44700 52500 5 8 1 1 0 0 1
-value=620R
+value=1.8K
 T 44200 52200 5 10 0 0 0 0 1
 comment=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD621J/?qs=sGAEpiMZZMtlubZbdhIBIGGVgW08MNGNSecECMLle70%3d
 }
@@ -101,7 +101,7 @@ device=RESISTOR
 T 44400 54600 5 8 1 1 0 0 1
 refdes=R2
 T 44700 54600 5 8 1 1 0 0 1
-value=150R
+value=470R
 T 44200 54300 5 10 0 1 0 0 1
 footprint=0603
 T 44200 54300 5 10 0 0 0 0 1
@@ -114,7 +114,7 @@ device=RESISTOR
 T 44400 53900 5 8 1 1 0 0 1
 refdes=R3
 T 44700 53900 5 8 1 1 0 0 1
-value=150R
+value=470R
 T 44200 53600 5 10 0 1 0 0 1
 footprint=0603
 T 44200 53600 5 10 0 0 0 0 1
@@ -127,7 +127,7 @@ device=RESISTOR
 T 44400 53200 5 8 1 1 0 0 1
 refdes=R4
 T 44700 53200 5 8 1 1 0 0 1
-value=150R
+value=470R
 T 44200 52900 5 10 0 1 0 0 1
 footprint=0603
 T 44200 52900 5 10 0 0 0 0 1
@@ -310,7 +310,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 49900 55300 5 8 1 1 0 0 1
 refdes=R7
 T 50200 55300 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 47000 54900 1 0 0 diode-led.sym
 {
@@ -351,7 +351,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 49900 54600 5 8 1 1 0 0 1
 refdes=R9
 T 50200 54600 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 49700 53600 1 0 0 resistor.sym
 {
@@ -364,7 +364,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 49900 53900 5 8 1 1 0 0 1
 refdes=R11
 T 50200 53900 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 49700 52900 1 0 0 resistor.sym
 {
@@ -377,7 +377,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 49900 53200 5 8 1 1 0 0 1
 refdes=R13
 T 50200 53200 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 47900 54900 1 0 0 diode-led.sym
 {
@@ -545,7 +545,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 55400 55300 5 8 1 1 0 0 1
 refdes=R18
 T 55700 55300 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 52500 54900 1 0 0 diode-led.sym
 {
@@ -586,7 +586,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 55400 54600 5 8 1 1 0 0 1
 refdes=R20
 T 55700 54600 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 55200 53600 1 0 0 resistor.sym
 {
@@ -599,7 +599,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 55400 53900 5 8 1 1 0 0 1
 refdes=R22
 T 55700 53900 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 55200 52900 1 0 0 resistor.sym
 {
@@ -612,7 +612,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD621J/?qs=sG
 T 55400 53200 5 8 1 1 0 0 1
 refdes=R25
 T 55700 53200 5 8 1 1 0 0 1
-value=620R
+value=1.8K
 }
 C 53400 54900 1 0 0 diode-led.sym
 {
@@ -760,7 +760,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 61000 55300 5 8 1 1 0 0 1
 refdes=R31
 T 61300 55300 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 58100 54900 1 0 0 diode-led.sym
 {
@@ -796,7 +796,7 @@ comment=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD621J/?qs=sGAEpi
 T 61000 52500 5 8 1 1 0 0 1
 refdes=R40
 T 61300 52500 5 8 1 1 0 0 1
-value=620R
+value=1.8K
 }
 N 57900 52300 59900 52300 4
 N 61700 55100 61900 55100 4
@@ -816,7 +816,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 61000 54600 5 8 1 1 0 0 1
 refdes=R34
 T 61300 54600 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 60800 53600 1 0 0 resistor.sym
 {
@@ -829,7 +829,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 61000 53900 5 8 1 1 0 0 1
 refdes=R37
 T 61300 53900 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 60800 52900 1 0 0 resistor.sym
 {
@@ -842,7 +842,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 61000 53200 5 8 1 1 0 0 1
 refdes=R39
 T 61300 53200 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 59000 54900 1 0 0 diode-led.sym
 {
@@ -1023,7 +1023,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 44400 49700 5 8 1 1 0 0 1
 refdes=R8
 T 44700 49700 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 41500 49300 1 0 0 diode-led.sym
 {
@@ -1064,7 +1064,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 44400 49000 5 8 1 1 0 0 1
 refdes=R10
 T 44700 49000 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 44200 48000 1 0 0 resistor.sym
 {
@@ -1077,7 +1077,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 44400 48300 5 8 1 1 0 0 1
 refdes=R12
 T 44700 48300 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 44200 47300 1 0 0 resistor.sym
 {
@@ -1090,7 +1090,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 44400 47600 5 8 1 1 0 0 1
 refdes=R14
 T 44700 47600 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 42400 49300 1 0 0 diode-led.sym
 {
@@ -1258,7 +1258,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 49700 50300 5 8 1 1 0 0 1
 refdes=R17
 T 50000 50300 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 46800 49900 1 0 0 diode-led.sym
 {
@@ -1299,7 +1299,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 49700 49600 5 8 1 1 0 0 1
 refdes=R19
 T 50000 49600 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 49500 48600 1 0 0 resistor.sym
 {
@@ -1312,7 +1312,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 49700 48900 5 8 1 1 0 0 1
 refdes=R21
 T 50000 48900 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 49500 47900 1 0 0 resistor.sym
 {
@@ -1325,7 +1325,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD621J/?qs=sG
 T 49700 48200 5 8 1 1 0 0 1
 refdes=R23
 T 50000 48200 5 8 1 1 0 0 1
-value=620R
+value=1.8K
 }
 C 47700 49900 1 0 0 diode-led.sym
 {
@@ -1471,7 +1471,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 55100 50300 5 8 1 1 0 0 1
 refdes=R27
 T 55400 50300 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 52200 49900 1 0 0 diode-led.sym
 {
@@ -1512,7 +1512,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 55100 49600 5 8 1 1 0 0 1
 refdes=R29
 T 55400 49600 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 54900 48600 1 0 0 resistor.sym
 {
@@ -1525,7 +1525,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 55100 48900 5 8 1 1 0 0 1
 refdes=R32
 T 55400 48900 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 54900 47900 1 0 0 resistor.sym
 {
@@ -1538,7 +1538,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD621J/?qs=sG
 T 55100 48200 5 8 1 1 0 0 1
 refdes=R36
 T 55400 48200 5 8 1 1 0 0 1
-value=620R
+value=1.8K
 }
 C 53100 49900 1 0 0 diode-led.sym
 {
@@ -1684,7 +1684,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 60900 49200 5 8 1 1 0 0 1
 refdes=R46
 T 61200 49200 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 58000 48800 1 0 0 diode-led.sym
 {
@@ -1725,7 +1725,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 60900 48500 5 8 1 1 0 0 1
 refdes=R48
 T 61200 48500 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 60700 47500 1 0 0 resistor.sym
 {
@@ -1738,7 +1738,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 60900 47800 5 8 1 1 0 0 1
 refdes=R50
 T 61200 47800 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 60700 46800 1 0 0 resistor.sym
 {
@@ -1751,7 +1751,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 60900 47100 5 8 1 1 0 0 1
 refdes=R51
 T 61200 47100 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 58900 48800 1 0 0 diode-led.sym
 {
@@ -1919,7 +1919,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 55000 45500 5 8 1 1 0 0 1
 refdes=R42
 T 55300 45500 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 52100 45100 1 0 0 diode-led.sym
 {
@@ -1955,7 +1955,7 @@ comment=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD621J/?qs=sGAEpi
 T 55000 42700 5 8 1 1 0 0 1
 refdes=R47
 T 55300 42700 5 8 1 1 0 0 1
-value=620R
+value=1.8K
 }
 N 51900 42500 53900 42500 4
 N 55700 45300 55900 45300 4
@@ -1975,7 +1975,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 55000 44800 5 8 1 1 0 0 1
 refdes=R43
 T 55300 44800 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 54800 43800 1 0 0 resistor.sym
 {
@@ -1988,7 +1988,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 55000 44100 5 8 1 1 0 0 1
 refdes=R44
 T 55300 44100 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 54800 43100 1 0 0 resistor.sym
 {
@@ -2001,7 +2001,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 55000 43400 5 8 1 1 0 0 1
 refdes=R45
 T 55300 43400 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 53000 45100 1 0 0 diode-led.sym
 {
@@ -2180,7 +2180,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 49400 44600 5 8 1 1 0 0 1
 refdes=R28
 T 49700 44600 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 46500 44200 1 0 0 diode-led.sym
 {
@@ -2219,7 +2219,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 49400 43900 5 8 1 1 0 0 1
 refdes=R30
 T 49700 43900 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 49200 42900 1 0 0 resistor.sym
 {
@@ -2232,7 +2232,7 @@ description=http://www.mouser.com/ProductDetail/KOA-Speer/RK73B1JTTDD151J/?qs=sG
 T 49400 43200 5 8 1 1 0 0 1
 refdes=R33
 T 49700 43200 5 8 1 1 0 0 1
-value=150R
+value=470R
 }
 C 47400 44200 1 0 0 diode-led.sym
 {
