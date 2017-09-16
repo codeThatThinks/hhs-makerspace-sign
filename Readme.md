@@ -1,2 +1,4 @@
-# Makerspace LED Sign
-A sign with the HHS ship and 'Makerspace' spelled out in LEDs
+# HHS Makerspace Sign
+An LED sign for the Hudson High School makerspace. It features the HHS ship and 'MAKERSPACE' spelled out in LEDs.
+
+![PCB](pcbs/Sign.png)
